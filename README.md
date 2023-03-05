@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Preferred frameworks and libraries
+### Preferred Frameworks And Libraries
 
 ![Spring](https://img.shields.io/badge/.NET-6DB33F?style=for-the-badge&logo=.NET&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -16,15 +16,25 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selezen4ever&layout=compact&theme=tokyonight&hide=CSS,Roff,Objective-C,JavaScript)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projects
+### Finished Projects
 
 <div style="display: flex; align-items: center;">
     <a style="min-width: calc(16vh - 10px)" href="https://trendskladmarket.ru/">
         <img src="https://img.shields.io/badge/Laravel-0C1117?style=for-the-badge&logo=laravel&logoColor=fff" alt="trendsklad-marketplace">
     </a>
-    <p style="padding-left: 10px">E-commerce marketplace service for textile distribution with ability to integrate new suppliers</p>
+    <p style="padding-left: 10px">E-commerce marketplace service for textile distribution with ability to integrate new suppliers.</p>
 </div>
 
+### "WIP" Projects
+
+
+
+<div style="display: flex; align-items: center;">
+    <a style="min-width: calc(16vh - 10px)" href="https://github.com/selezen4ever/dotnet-messenger">
+        <img src="https://img.shields.io/badge/.NET-0C1117?style=for-the-badge&logo=.net&logoColor=fff" alt="trendsklad-marketplace">
+    </a>
+    <p style="padding-left: 10px">Fully-functional messenger "Sha" on self-written (Vertical Slice Architecture, CQRS) basing on ASP.NET minimal API.</p>
+</div>
 
 ### Follow Me
 
