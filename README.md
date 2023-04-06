@@ -37,8 +37,9 @@
 
 <div style="display: flex; align-items: center;">
     <a style="min-width: calc(16vh - 10px)" href="https://github.com/selezen4ever/Marketplace.Microservices.Auth">
-        <img src="https://img.shields.io/badge/.NET-0C1117?style=for-the-badge&logo=.net&logoColor=fff" alt="trendsklad-marketplace">
-        <img src="https://img.shields.io/badge/NestJs-FF2D20?style=for-the-badge&logo=.net&logoColor=fff" alt="trendsklad-marketplace">
+        <img src="https://img.shields.io/badge/.NET-0C1117?style=for-the-badge&logo=.net&logoColor=fff" alt="marketplace">
+        <img src="https://img.shields.io/badge/NestJs-0C1117?style=for-the-badge&logo=.net&logoColor=fff" alt="marketplace">
+        <img src="https://img.shields.io/badge/Vue.js-0C1117?style=for-the-badge&logo=.net&logoColor=fff" alt="marketplace">
     </a>
     <p style="padding-left: 10px">E-commerce universal marketplace service for products distribution with ability to integrate new suppliers on Microservices (ASP.NET, Nest JS) with a Vue JS as a UI</p>
 </div>
