@@ -31,7 +31,7 @@
 <div style="display: flex; align-items: center;">
     <a style="min-width: calc(16vh - 10px)" href="https://github.com/selezen4ever/dotnet-messenger">
         <img src="https://img.shields.io/badge/.NET-0C1117?style=for-the-badge&logo=.net&logoColor=fff" alt="trendsklad-marketplace">
-        <img src="https://img.shields.io/badge/reactjs-0C1117?style=for-the-badge&logo=reactjs&logoColor=fff" alt="trendsklad-marketplace">
+        <img src="https://img.shields.io/badge/react.js-0C1117?style=for-the-badge&logo=react.js&logoColor=fff" alt="trendsklad-marketplace">
     </a>
     <p style="padding-left: 10px">Fully-functional messenger "Sha" on self-written (Vertical Slice Architecture, CQRS) basing on ASP.NET minimal API.</p>
 </div>
