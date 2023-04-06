@@ -42,7 +42,7 @@
         <img src="https://img.shields.io/badge/NestJs-0C1117?style=for-the-badge&logo=nestjs&logoColor=fff" alt="marketplace">
         <img src="https://img.shields.io/badge/Vue.js-0C1117?style=for-the-badge&logo=vue.js&logoColor=fff" alt="marketplace">
     </a>
-    <p style="padding-left: 10px">E-commerce universal marketplace service for products distribution with ability to integrate new suppliers on Microservices (ASP.NET, Nest JS) with a Vue JS as a UI</p>
+    <p style="padding-left: 10px">E-commerce universal marketplace service for products distribution with ability to integrate new suppliers on Microservices (ASP.NET, Nest JS) with a Vue JS as a UI.</p>
 </div>
 
 ### Follow Me
