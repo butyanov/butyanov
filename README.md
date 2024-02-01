@@ -13,9 +13,9 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=selezen4ever&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=butyanov&show_icons=true&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selezen4ever&layout=compact&theme=tokyonight&hide=CSS,Roff,Objective-C,JavaScript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=butyanov&layout=compact&theme=tokyonight&hide=CSS,Roff,Objective-C,JavaScript)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Finished Projects
 
@@ -29,7 +29,7 @@
 ### "WIP" Projects
 
 <div style="display: flex; align-items: center;">
-    <a style="min-width: calc(16vh - 10px)" href="https://github.com/selezen4ever/dotnet-messenger">
+    <a style="min-width: calc(16vh - 10px)" href="https://github.com/butyanov/dotnet-messenger">
         <img src="https://img.shields.io/badge/.NET-0C1117?style=for-the-badge&logo=.net&logoColor=fff" alt="trendsklad-marketplace">
         <img src="https://img.shields.io/badge/react.js-0C1117?style=for-the-badge&logo=react.js&logoColor=fff" alt="trendsklad-marketplace">
     </a>
@@ -37,7 +37,7 @@
 </div>
 
 <div style="display: flex; align-items: center;">
-    <a style="min-width: calc(16vh - 10px)" href="https://github.com/selezen4ever/Marketplace.Microservices.Auth">
+    <a style="min-width: calc(16vh - 10px)" href="https://github.com/butyanov/Marketplace.Microservices.Auth">
         <img src="https://img.shields.io/badge/.NET-0C1117?style=for-the-badge&logo=.net&logoColor=fff" alt="marketplace">
         <img src="https://img.shields.io/badge/NestJs-0C1117?style=for-the-badge&logo=nestjs&logoColor=fff" alt="marketplace">
         <img src="https://img.shields.io/badge/Vue.js-0C1117?style=for-the-badge&logo=vue.js&logoColor=fff" alt="marketplace">
